@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Card Dealer</string>
+    <string name="deal">Deal</string>
+    <string name="reset">Reset</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="no_more_cards">EMPTY</string>
+</resources>
